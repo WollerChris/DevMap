@@ -1,0 +1,26 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "## Problem Statement: We are unable to quickly see how many Galvanize graduates we have in our work force and need an easy way to assess their current unit/locations using a density map. Additionally, we need to view how long they have been at their current locations to enable personnel movements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.7",
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
+    "knex": "^2.4.2",
+    "leaflet": "^1.9.4",
+    "pg": "^8.11.1",
+    "react": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "styled-components": "^6.0.2"
+  }
+}
