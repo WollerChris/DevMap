@@ -5,3 +5,4 @@ We are unable to quickly see how many Galvanize graduates we have in our work fo
 
 Fix: Develop application that will retrieve personnel data for quick view enabling us to assess talent management/work force needs
 
+![image](https://github.com/td8end/DevMap/assets/125446030/214206ad-029f-4d71-9a19-42648612823e)
